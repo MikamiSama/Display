@@ -1,0 +1,11 @@
+--- Base class (text) ---
+[Text Display] File content:
+Hi
+
+--- AsciiFileReader ---
+[ASCII Display] Character ASCII codes:
+72 105 
+
+--- BinaryFileReader ---
+[Binary Display] Binary representation:
+01001000 01101001 
